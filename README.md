@@ -1,4 +1,4 @@
-# The Collatz conjecture (or most dangerous math problem)
+# The Collatz conjecture (or the most dangerous math problem)
 The Collatz conjecture, proposed by mathematician Lothar Collatz in 1937, is a deceptively simple yet unsolved problem in number theory. Starting with any positive integer n, follow these rules iteratively:
 - If n is even, divide it by 2.
 - If n is odd, multiply it by 3 and add 1.
